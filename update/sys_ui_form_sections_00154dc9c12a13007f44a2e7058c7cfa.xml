@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
     <sys_ui_form_sections form_id="00154dc9c12a13007f44a2e7058c7cfa" sys_domain="global" table="x_snc_loaner_reque_loaner_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-05 12:46:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e17054dc12a13007f44a2e7058c7c3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_loaner_reque_loaner_request" name="x_snc_loaner_reque_loaner_request" sys_domain="global" view="498f2160713203007f4484a32341d99f">00154dc9c12a13007f44a2e7058c7cfa</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_reque_loaner_request" sys_domain="global" view="498f2160713203007f4484a32341d99f">9ce5c50dc12a13007f44a2e7058c7c09</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-05 12:46:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-05 12:46:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a17054dc12a13007f44a2e7058c7c3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_loaner_reque_loaner_request" name="x_snc_loaner_reque_loaner_request" sys_domain="global" view="498f2160713203007f4484a32341d99f">00154dc9c12a13007f44a2e7058c7cfa</sys_ui_form>
+            <sys_ui_section caption="Logs" display_value="Logs" name="x_snc_loaner_reque_loaner_request" sys_domain="global" view="498f2160713203007f4484a32341d99f">9617054dc12a13007f44a2e7058c7c3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-05 12:46:31</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_loaner_reque_loaner_request</name>
             <roles/>
