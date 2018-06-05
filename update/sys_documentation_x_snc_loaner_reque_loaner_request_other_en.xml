@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="location_to_be_used" label="Location to be used" language="en" table="x_snc_loaner_reque_loaner_request">
+    <sys_documentation element="other" label="Other" language="en" table="x_snc_loaner_reque_loaner_request">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>location_to_be_used</element>
+            <element>other</element>
             <help/>
             <hint/>
-            <label>Location to be used</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_snc_loaner_reque_loaner_request</name>
-            <plural>Location to be used</plural>
+            <plural>Others</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 10:45:30</sys_created_on>
-            <sys_id>a16ba005c12a13007f44a2e7058c7cc4</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>Location to be used</sys_name>
+            <sys_created_on>2018-06-05 13:05:07</sys_created_on>
+            <sys_id>7e5bcd8dc12a13007f44a2e7058c7ce0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Other</sys_name>
             <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">4dc00078c12613007f44a2e7058c7c67</sys_package>
             <sys_policy/>
             <sys_scope display_value="Loaner Request">4dc00078c12613007f44a2e7058c7c67</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_request_location_to_be_used_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_request_other_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-06-05 13:05:07</sys_updated_on>
             <url/>
